@@ -1,0 +1,85 @@
+.mainButton {
+    padding:25px;
+    margin:25px;
+}
+.actionButton {
+    margin: 10px 5px 5px 5px;
+}
+.inputLarge {
+    font-size:1.5em;
+}
+.accountSelectCarousel .account {
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    border-bottom: 1px dashed #999999;
+    padding-bottom: 10px;
+}
+.accountSelectCarousel .balance {
+    text-align: right;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.accountSelectCarousel .positive {
+    color: #6C9804;
+}
+.accountSelectCarousel .negative {
+    color: #C70505;
+}
+.accountSelectCarousel .x-innerhtml{
+    background: white;
+    padding: 10px;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+    -webkit-border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+}
+.modalPanel {
+    width: 90%;
+    height: 90%;
+}
+.amount {
+    text-align: center;
+    font-size:1.5em;
+    color: #999999;
+    font-weight: bold;
+}
+.x-field .label {
+    -webkit-border-radius: 5px;
+}
+.x-field .myLabel {
+    color: #ffffff;
+    background-color: #999999;
+}
+.x-field .value {
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    line-height: 30px;
+}
+.x-field .myValue{
+    color: #999999;
+}
+.operationNumberFieldSet {
+    margin: 5px 15px -10px 15px !important
+}
+/* Overwrite */
+.x-mask .x-mask-inner {
+    background: rgba(0, 0, 0, 0.5);
+}
+.x-form-field {
+    /*color: #999999;
+    text-shadow: -1px -1px #dddddd, 1px 1px #333333;*/
+}
+.x-field-input {
+    /*-webkit-box-shadow: inset 0 0 4px #000000;*/
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.x-form-fieldset {
+    margin: 0 0 0.8em;
+}
+.x-form-fieldset-title {
+    margin:0em 0.7em 0.3em;
+}
+.x-spinner .x-input-el, .x-field-select .x-input-el {
+    /*-webkit-text-fill-color: #999999;*/
+}
